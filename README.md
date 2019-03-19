@@ -1,2 +1,2 @@
 # VillageSportStats
-Sport stats for village footer.
+Sport stats for village soccer league.
