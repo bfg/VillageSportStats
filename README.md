@@ -6,5 +6,7 @@ Sport stats for village soccer league.
 ## References
 
 * [statistics](https://en.wikipedia.org/wiki/Statistics) :: stats description
-* [sport](https://en.wikipedia.org/wiki/Sport) :: sport description
+* [sport][wiki sport] :: sport description
 
+
+[wiki sport]: https://en.wikipedia.org/wiki/Sport
